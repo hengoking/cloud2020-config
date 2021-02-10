@@ -1,2 +1,3 @@
-config: 
+config:
     env: dev
+    info: 'master-dev 1.0'

@@ -1,2 +1,3 @@
-config: 
+config:
     env: prod
+    info: 'master-prod 1.0'
